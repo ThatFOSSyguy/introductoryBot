@@ -34,7 +34,7 @@ Step 7: Authorize
 ![image](https://user-images.githubusercontent.com/77693447/118796311-1f636400-b8b9-11eb-8562-4b6ebab79201.png)
 
 
-Step 8: Go to your discord server and type "!intro". If the message comes up that you have inputed, all is done. Go to "Editing the code of the bot" section if you wanna edit the file
+Step 8: Go to your discord server and type "!intro". If the message comes up that you have inputed, all is done. Go to "Editing the code of the bot" section if you wanna edit the file. Make sure that you change the token or else it wouldn't work.
 
 # Editing the code of the bot
 It's very simple to edit the file. Follow the steps below to do so.
