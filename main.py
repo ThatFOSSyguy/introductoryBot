@@ -19,4 +19,4 @@ async def on_message(message):
     await message.channel.send(intrMsg)
 
 keeping_alive()
-client.run(os.getenv('Token'))
+client.run(os.getenv('Token')) # In the place of the token you should add your own bot's token. If you are using online text editors like Repl.it, you must set it as .env and it should be stored carefully as if it gets leaked, your discord server will be in danger.
