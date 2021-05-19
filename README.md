@@ -66,6 +66,6 @@ Now you can edit the file!
 
 # Donation
 
-Feal free to donate to me. I only accept Monero as I wanna remain anonymous.
+Feel free to donate to me. I only accept Monero as I wanna remain anonymous.
 Monero address: 4BDzPKJ6g7w1PxBgXW5hHLG5Cy3RuXUUDHK5KEzZcbJaX8CvELZhSJ8Vzh3anPq2zBHxT9itAuxuuiQfxFgzmJq59Q5PDsw
 Thank-you if you have donated
