@@ -1,7 +1,7 @@
 # introductoryBot
-This is a very very very simple introductory dicord bot that give introduction. Type "!intro" to call the bot.
+This is a very very very simple introductory dicord bot that give introduction. Type "!intro" to call the bot. It is made in Python 3.9.0. It's very customizable.
 
-# Setting Up
+# Installing and setting up the bot
 
 Step 1: Go to https://discord.com/developers/applications and click on new application
 ![image](https://user-images.githubusercontent.com/77693447/118782459-be815f00-b8ab-11eb-915d-eeb544651186.png)
