@@ -74,5 +74,8 @@ Step 2: Go to the locations of the downloaded file and right-click main.py and c
 ![image](https://user-images.githubusercontent.com/77693447/118799330-3788b280-b8bc-11eb-8eff-7854d13c20f5.png)
 
 
-
 Now you can edit the file!
+
+# Donation
+
+Monero: `4A2GqdZW4edSMmPJ2nnXwMfdQqyk9xNVQN3S173kXHzjLd6g4cCczfsdFwq4miz5hfiDwjKnxC4MkQrzKMXgnfDzJQCsQRg`
