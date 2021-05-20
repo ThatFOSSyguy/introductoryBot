@@ -79,3 +79,5 @@ Now you can edit the file!
 # Donation
 
 Monero: `4A2GqdZW4edSMmPJ2nnXwMfdQqyk9xNVQN3S173kXHzjLd6g4cCczfsdFwq4miz5hfiDwjKnxC4MkQrzKMXgnfDzJQCsQRg`
+
+Bitcoin: `bc1qltshuqxpl0ewx49kx429vrtxd3gsw9ae3glqpp`
