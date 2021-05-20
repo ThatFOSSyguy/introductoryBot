@@ -34,7 +34,20 @@ Step 7: Authorize
 ![image](https://user-images.githubusercontent.com/77693447/118796311-1f636400-b8b9-11eb-8562-4b6ebab79201.png)
 
 
-Step 8: Go to your discord server and type "!intro". If the message comes up that you have inputed, all is done. Make sure that you change the token or else it wouldn't work.  Go to "Editing the code of the bot" section if you wanna edit the file. 
+Step 8: Go to your discord server and type "!intro". If the message comes up that you have inputed, all is done. Make sure that you change the token or else it wouldn't work.  Go to https://github.com/ThatFOSSyguy/introductoryBot#editing-the-code-of-the-bot (Editing the code of the bot) section if you wanna edit the file. 
+
+
+# Getting the token
+
+It's simple to get the token for the bot
+
+Step 1: Go to https://discord.com/developers/applications
+
+Step 2: Click on the Application that you had made before in 'Installing and setting up the bot'
+
+Step 3: Going to OAuth2 and clicking on "Copy". Make sure that to keep the token secret
+
+![image](https://user-images.githubusercontent.com/77693447/118925485-71a99100-b95c-11eb-9a89-ccd94de956a4.png)
 
 # Editing the code of the bot
 It's very simple to edit the file. Follow the steps below to do so.
@@ -63,11 +76,3 @@ Step 2: Go to the locations of the downloaded file and right-click main.py and c
 
 
 Now you can edit the file!
-
-# Donation
-
-Feel free to donate to me. I only accept Monero as I wanna remain anonymous.
-
-Monero address: `4BDzPKJ6g7w1PxBgXW5hHLG5Cy3RuXUUDHK5KEzZcbJaX8CvELZhSJ8Vzh3anPq2zBHxT9itAuxuuiQfxFgzmJq59Q5PDsw`
-
-Thank-you if you have donated
