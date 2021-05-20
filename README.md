@@ -27,7 +27,7 @@ Step 5 Select permissions as you want(Make sure that you select View channels an
 
 
 Step 6 Scroll up and copy the URL and open a new tab and paste it
-![image](https://user-images.githubusercontent.com/77693447/118794274-0a85d100-b8b7-11eb-9de4-61e3c6cff063.png)
+![image](https://user-images.githubusercontent.com/77693447/118933896-5b550280-b967-11eb-8fb3-e82aeda2b6ca.png)
 
 
 Step 7: Authorize
