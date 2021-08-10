@@ -77,8 +77,8 @@ Step 2: Go to the locations of the downloaded file and right-click main.py and c
 Now you can edit the file!
 
 # Licence
-Copyright © 2021 Mihir Vagal
-Licenced under the (MIT)[https://github.com/ThatFOSSyguy/introductoryBot/blob/main/LICENCE.txt] licence
+Copyright © 2021 Mihir Vagal <br>
+Licenced under the <a href="https://github.com/ThatFOSSyguy/introductoryBot/blob/main/LICENCE.txt">MIT</a> licence
 
 # Donation
 
