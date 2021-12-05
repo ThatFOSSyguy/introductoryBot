@@ -1,5 +1,5 @@
 # introductoryBot
-This is a very very very simple introductory dicord bot that literary gives introduction.
+This is a very simple introductory dicord bot that literary gives introduction.
 
 # Licence
 Copyright © 2021 Mihir Vagal <br>
